@@ -1,2 +1,2 @@
-# cake-bee-eye
-Make measuring performance against business goals a piece of cake
+# Key Performance Indicators
+Make measuring performance against business goals a breeze
